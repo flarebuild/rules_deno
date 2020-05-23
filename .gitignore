@@ -3,3 +3,5 @@
 .idea*
 
 examples/500routes/gen/*
+
+bazel-*
